@@ -1,7 +1,5 @@
 # React Book List Selector
-Completed example of Book List / Details selector from Modern React/Redux course. See Below for details.
-
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Simple proof of concept Book List / Details selector used as a learning excercise as a refresher on Redux 
 
 #### Familiar with Git?
 Checkout this repo, install dependencies, then start the gulp process with the following:
@@ -10,3 +8,4 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm install
 > npm start
 ```
+Navigate to http://localhost:8080!
